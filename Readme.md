@@ -74,4 +74,4 @@ This repository provides an analysis and visualization of potential vorticity (P
 
 ## Contact
 
-For questions, suggestions, or collaboration, please open an issue or contact [your-email@example.com].
+For questions, suggestions, or collaboration, please open an issue or contact [harshitlakum2012@gmail.com].
