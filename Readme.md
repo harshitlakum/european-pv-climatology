@@ -70,7 +70,7 @@ This repository provides an analysis and visualization of potential vorticity (P
 ## Credits
 
 - ERA5/ERA5-Land datasets (Copernicus Climate Data Store)
-- Code and analysis by [Your Name]
+- Code and analysis by Harshit Lakum
 
 ## Contact
 
