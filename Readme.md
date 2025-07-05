@@ -17,8 +17,6 @@ This repository provides an analysis and visualization of potential vorticity (P
   Animated GIFs for all major results and comparisons
 - requirements.txt  
   Python dependencies
-- LICENSE  
-  Project license (optional)
 - README.md  
   This file
 
